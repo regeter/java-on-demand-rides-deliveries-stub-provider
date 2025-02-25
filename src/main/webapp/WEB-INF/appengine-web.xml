@@ -8,8 +8,8 @@
        is what you typed in the "Application Identifier" box when you created
        the app in the App Engine control panel). If you created a public App
        Engine (AppSpot) app, just say my-app. -->
-  <application>YOUR-APPID-HERE</application>
-  <version>1</version>
+  <application>odrd2</application>
+  <version>odrd2</version>
 
   <!-- Keep your application thread-safe and you can have multiple responding
        threads. -->

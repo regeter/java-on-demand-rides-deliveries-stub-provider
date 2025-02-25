@@ -93,8 +93,8 @@ appengine {  // App Engine tasks configuration
   }
 
   deploy {   // deploy configuration
-    projectId = 'YOUR-CLOUD-PROJECT'
-    version = '1'
+    projectId = 'geod-support-gems'
+    version = 'odrd2'
   }
 }
 
